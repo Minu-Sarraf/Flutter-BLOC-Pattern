@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:ui_tests/beecreative_tutorial/listView.dart';
 import 'package:ui_tests/assets_repo/appcolors.dart';
-import 'package:ui_tests/beecreative_tutorial/network_call/apiCall.dart';
+import 'package:ui_tests/src/resources/network_call/apiCall.dart';
 
 
 class MainPage extends StatelessWidget {

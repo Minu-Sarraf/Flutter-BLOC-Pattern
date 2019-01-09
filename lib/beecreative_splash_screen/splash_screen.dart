@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:ui_tests/assets_repo/appphotos.dart';
 import 'package:flutter/animation.dart';
-import 'package:ui_tests/beecreative_tutorial/welcome.dart';
+import 'package:ui_tests/src/ui/welcome.dart';
 
 
 class SplashScreen extends StatefulWidget {
